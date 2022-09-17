@@ -1,0 +1,22 @@
+th,td {
+    border: 1px solid black;
+    border-style: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: black;
+    
+
+}
+
+.primerafila{
+    
+    background-color: lightblue;
+}
+
+.filagris{
+
+    background-color: gray;
+}
+
+.nombre{
+    width: 100px;
+}
